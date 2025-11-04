@@ -1,0 +1,5 @@
+{
+  "name": "D7A0HO Hybrid Football Predictor",
+  "description": "A React-based football match predictor that uses the Gemini API to analyze matches based on team stats, weather, and Poisson distribution, inspired by the D7A0HO Phoenix v9.2 engine.",
+  "requestFramePermissions": []
+}
